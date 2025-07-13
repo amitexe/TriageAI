@@ -68,4 +68,4 @@ def get_resolution(summary: str, metadata: dict, similar_tickets: list) -> str:
 
     except Exception as e:
         logger.error(f"Error in resolution selection: {e}")
-        return "Error occurred while generating resolution." 
+        return "Error occurred while generating resolution."
