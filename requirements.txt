@@ -1,0 +1,11 @@
+openai
+langchain
+chromadb
+tqdm
+streamlit
+python-dotenv
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+sentence-transformers
